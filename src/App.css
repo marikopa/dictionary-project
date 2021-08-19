@@ -1,13 +1,18 @@
+.App {
+  display: block;
+  background-color: aliceblue;
+  padding: 60px;
+}
+
+.App-footer {
+  text-align: center;
+  padding-bottom: 15px;
+}
 .App-header {
   text-align: center;
   color: blue;
   margin: 40px 0;
-}
-
-.App {
-  display: block;
-}
-
-.App {
-  background-color: aliceblue;
+  font-size: xx-large;
+  font-family: Chalkduster;
+  font-weight: bold;
 }
